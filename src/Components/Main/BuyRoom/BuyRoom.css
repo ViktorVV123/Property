@@ -1,0 +1,11 @@
+.roomAll{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.imgRoom{
+
+    margin-top: 100px;
+    max-height: 150px;
+
+}

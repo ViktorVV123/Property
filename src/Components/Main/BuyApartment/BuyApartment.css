@@ -1,0 +1,26 @@
+.cardStyle{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.img-fluid{
+    width:120px;
+    height: 80px;
+}
+.twoApart{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.fourApart{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.imgApart{
+    margin-top: 20px;
+    max-height: 100px;
+}
+h5{
+
+}

@@ -1,0 +1,16 @@
+.footer{
+    background-color: #353535;
+    margin: 0;
+    color: #999;
+}
+
+.footerAll{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.footerA{
+    display: flex;
+    flex-direction:column ;
+}

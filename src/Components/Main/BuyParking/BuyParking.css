@@ -1,0 +1,14 @@
+.parkingAll{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+.imgParking{
+max-height: 150px;
+}
+.parkingA{
+    display: flex;
+    flex-direction: column;
+}
