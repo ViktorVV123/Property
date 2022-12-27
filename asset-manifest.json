@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Property/static/css/main.3c1b9ed5.css",
+    "main.js": "/Property/static/js/main.73cdaf44.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Property/static/js/787.28cb0dcd.chunk.js",
+    "static/media/parking.jpg": "/Property/static/media/parking.ed3880163256c7af8354.jpg",
+    "static/media/room1.jpg": "/Property/static/media/room1.5a371e0841e77a3f9eb9.jpg",
+    "static/media/room2.jpg": "/Property/static/media/room2.01d5d040625373f5d680.jpg",
+    "static/media/Moscow.jpg": "/Property/static/media/Moscow.6eaa7e603888d9f92fb0.jpg",
+    "static/media/однушка.jpeg": "/Property/static/media/однушка.b28beb0cb153f1bbf0d3.jpeg",
+    "static/media/двушка.jpeg": "/Property/static/media/двушка.34ca9cf711798cfb6b31.jpeg",
+    "static/media/трешка.jpeg": "/Property/static/media/трешка.bef1884f4edb2ee05539.jpeg",
+    "static/media/студия.jpeg": "/Property/static/media/студия.4f746bb7624244a170ec.jpeg",
+    "index.html": "/Property/index.html",
+    "main.3c1b9ed5.css.map": "/Property/static/css/main.3c1b9ed5.css.map",
+    "main.73cdaf44.js.map": "/Property/static/js/main.73cdaf44.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Property/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c1b9ed5.css",
+    "static/js/main.73cdaf44.js"
+  ]
+}
